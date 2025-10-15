@@ -1,27 +1,33 @@
-
-
-# 🧠 Knowledge Base Search
+# Knowledge Base Search
 
 A **smart document search system** built using **MERN stack** with **AI-powered question answering**.  
 Upload your documents, ask questions, and get **context-aware answers with sources** — fast and easy.
 
 ---
 
-## 🚀 Overview
+## Demo Video
+
+Watch the full demo of **Knowledge Base Search**: [Google Drive Link]
+
+https://drive.google.com/file/d/1gYD-o7wN2qv5Cio1TdSnLjSuUs7WiTs8/view?usp=drivesdk
+
+---
+
+## Overview
 
 **Knowledge Base Search** lets you:
 
-- 📄 Upload PDFs or text files  
-- ✂️ Extract and chunk content automatically  
-- 🧩 Create embeddings for semantic understanding  
-- ❓ Ask natural language questions  
-- 📚 Get answers with **document references**  
+- Upload PDFs or text files  
+- Extract and chunk content automatically  
+- Create embeddings for semantic understanding  
+- Ask natural language questions  
+- Get answers with **document references**  
 
 It’s like having an **AI-powered Google** for your own documents.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer       | Technology                     |
 |------------|-------------------------------|
@@ -32,18 +38,18 @@ It’s like having an **AI-powered Google** for your own documents.
 
 ---
 
-## 💡 Key Features
+## Key Features
 
-- 📄 Multi-document upload  
-- ✂️ Automatic text chunking  
-- 🧩 Semantic search via embeddings  
-- ❓ Natural language Q&A  
-- 📚 Answers with source references  
-- ⚡ Smooth UI with React + Axios  
+- Multi-document upload  
+- Automatic text chunking  
+- Semantic search via embeddings  
+- Natural language Q&A  
+- Answers with source references  
+- Smooth UI with React + Axios  
 
 ---
 
-## 🧠 How It Works (Simple)
+## How It Works (Simple)
 
 1. **Upload Documents** – text is extracted & split into chunks.  
 2. **Store in Database** – chunks & embeddings are saved in MongoDB.  
@@ -87,7 +93,7 @@ Open [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 🧩 Concepts Explained
+## Concepts Explained
 
 | Term              | Meaning                                          |
 | ----------------- | ------------------------------------------------ |
@@ -98,34 +104,21 @@ Open [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## ✨ Future Improvements
 
-* 🔐 User authentication
-* 📂 Support for more document formats
-* 💾 Local vector search (FAISS / Chroma)
-* 📝 Summarization & multi-document comparison
-
----
-
-## 📸 Preview
+## Preview
 
 Here are some screenshots of the app in action:
 
-![App Screenshot](frontend/public/img.png)  
-![App Screenshot 1](frontend/public/img1.png)  
-![App Screenshot 2](frontend/public/img2.png)  
+![App Screenshot](frontend/public/img.png)
+![App Screenshot 1](frontend/public/img1.png)
+![App Screenshot 2](frontend/public/img2.png)
+
 ---
 
-## 👩🏻‍💻 About Me
+## About Me
 
 Hi! I’m **Khushi Kashyap** 👋
 I love **AI, web development, and building intuitive apps**.
 This project combines my passion for **full-stack development + machine learning**.
 
 ---
-
-## ⭐ Summary
-
-**Knowledge Base Search** transforms your documents into an **interactive, searchable knowledge system** using **MERN + AI**.
-It’s fast, smooth, and helps you find information from your documents **in seconds**.
-

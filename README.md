@@ -109,10 +109,11 @@ Open [http://localhost:5173](http://localhost:5173)
 
 ## 📸 Preview
 
-*(Add screenshots or GIFs of your app here)*
+Here are some screenshots of the app in action:
 
-![App Screenshot](frontend/public/screenshot.png)
-
+![App Screenshot](frontend/public/img.png)  
+![App Screenshot 1](frontend/public/img1.png)  
+![App Screenshot 2](frontend/public/img2.png)  
 ---
 
 ## 👩🏻‍💻 About Me
